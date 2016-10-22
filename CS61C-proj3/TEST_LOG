@@ -1,0 +1,6 @@
+Testing files...
+	PASSED test: ALU add (with overflow) test
+	PASSED test: ALU arithmetic right shift test
+	PASSED test: RegFile read/write test
+	PASSED test: RegFile $zero test
+Passed 4/4 tests
