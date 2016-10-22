@@ -1,0 +1,19 @@
+***Parse and echo airports***
+SJC
+SFO
+
+***Parse and echo schedules***
+Adding schedule for airport SJC
+SJC
+SFO 07:00 12:00 $230
+SFO 09:30 11:30 $230
+Adding schedule for airport SFO
+SFO
+SJC 05:00 06:00 $200
+SJC 08:00 11:00 $300
+SJC 10:00 13:00 $250
+
+***Parse and calculate route times***
+Route SIMPLE1 will be completed by 11:30 and costs $230
+Route SIMPLE2 will be completed by 11:30 and costs $430
+Route IMPOSSIBLE cannot be completed
