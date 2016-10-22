@@ -1,0 +1,13 @@
+.text
+24100000
+24100064
+0200082a
+10200001
+1000fffc
+1600fffb
+
+.symbol
+4	label1
+20	label2
+
+.relocation

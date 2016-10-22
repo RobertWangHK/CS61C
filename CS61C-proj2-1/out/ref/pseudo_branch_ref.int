@@ -1,0 +1,6 @@
+addiu $s0 $0 0
+addiu $s0 $0 100
+slt $at $s0 $0
+beq $at $0 label2
+beq $0 $0 label1
+bne $s0 $0 label1
